@@ -1,24 +1,24 @@
 {
-    "categories": [
+	"categories": [
 	    {
-	        icon: "assets/svg/shirt.svg",
-			name: "Shirt",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/shirt.svg",
+			"name": "Shirt",
 	    },
 	    {
-	        icon: "assets/svg/dress.svg",
-			name: "Dress",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/dress.svg",
+			"name": "Dress",
 	    },
 	    {
-	        icon: "assets/svg/jeans.svg",
-			name: "Jeans",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/jeans.svg",
+			"name": "Jeans",
 	    },
 	    {
-	        icon: "assets/svg/shoes.svg",
-			name: "Shoes",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/shoes.svg",
+			"name": "Shoes",
 	    },
 	    {
-	        icon: "assets/svg/hat.svg",
-			name: "Hat",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/hat.svg",
+			"name": "Hat",
 	    }, 
     ],
     "products": [{
