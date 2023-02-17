@@ -27,7 +27,7 @@
         "title": "Second shirt",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
         "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/3.png",
-        "price": 607,
+        "price": 6077,
         "sizes": "XS L",
         "is_published": 1,
         "user_id": 1
@@ -107,7 +107,7 @@
         "title": "Second shirt",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
         "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
-        "price": 607,
+        "price": 6077,
         "sizes": "XS L",
         "is_published": 1,
         "user_id": 1
@@ -187,7 +187,7 @@
         "title": "Second shirt",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
         "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
-        "price": 607,
+        "price": 6077,
         "sizes": "XS L",
         "is_published": 1,
         "user_id": 1
@@ -267,7 +267,7 @@
         "title": "Second shirt",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
         "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
-        "price": 607,
+        "price": 6077,
         "sizes": "XS L",
         "is_published": 1,
         "user_id": 1
