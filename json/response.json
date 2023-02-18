@@ -1,23 +1,23 @@
 {
 	"categories": [
 	    {
-	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/shirt.svg",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/main/icons/shirt.svg",
 			"name": "Shirt"
 	    },
 	    {
-	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/dress.svg",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/main/icons/dress.svg",
 			"name": "Dress"
 	    },
 	    {
-	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/jeans.svg",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/main/icons/jeans.svg",
 			"name": "Jeans"
 	    },
 	    {
-	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/shoes.svg",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/main/icons/shoes.svg",
 			"name": "Shoes"
 	    },
 	    {
-	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/d9530ae166d677b2c76b7900dab1e8bff134db3c/icons/hat.svg",
+	        "icon": "https://raw.githubusercontent.com/vip-app/iShop/main/icons/hat.svg",
 			"name": "Hat"
 	    }
     ],
