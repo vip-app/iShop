@@ -374,7 +374,7 @@
         "phone": "9640626522",
         "whatsapp": "9640626522",
         "location": null,
+	"payment": true,
         "user_id": 1
-    },
-    "payment": null
+    }
 }
