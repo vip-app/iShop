@@ -2,5 +2,14 @@
 	"categories": null,
     "products": null,
     "promotions": null,
-    "settings": null
+    "settings": {
+        "id": 1,
+        "name": "iShop",
+        "telegram": "744595449",
+        "phone": "9640626522",
+        "whatsapp": "9640626522",
+        "location": null,
+	"payment": true,
+        "user_id": 1
+    }
 }
