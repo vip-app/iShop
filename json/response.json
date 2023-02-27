@@ -1,5 +1,5 @@
 {
-	"pay": false,
+	"pay": true,
 	"categories": [
 	    {
 		    "id": 1,
