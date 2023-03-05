@@ -146,7 +146,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/3.png",
             "price": 60,
             "sizes": "XS L",
-            "subcategories": "Shirt1"
+            "subcategory": "Shirt1"
         },
         {
             "id": 5,
@@ -156,7 +156,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
             "price": 688,
             "sizes": "XS S L XXL",
-            "subcategories": "Shirt2"
+            "subcategory": "Shirt2"
         },
         {
             "id": 6,
@@ -166,7 +166,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
             "price": 455,
             "sizes": null,
-            "subcategories": "Shirt3"
+            "subcategory": "Shirt3"
         },
         {
             "id": 8,
@@ -176,7 +176,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
             "price": 908,
             "sizes": null,
-            "subcategories": "Shirt4"
+            "subcategory": "Shirt4"
         },
         {
             "id": 10,
@@ -186,7 +186,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/3.png",
             "price": 788,
             "sizes": "L",
-            "subcategories": "Shirt5"
+            "subcategory": "Shirt5"
         },
         {
             "id": 11,
@@ -196,7 +196,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
             "price": 788,
             "sizes": "XXS XS S M L",
-            "subcategories": "Shirt1"
+            "subcategory": "Shirt1"
         },
         {
             "id": 15,
@@ -206,7 +206,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
             "price": 888,
             "sizes": "XXS XS",
-            "subcategories": "Shirt2"
+            "subcategory": "Shirt2"
         },
         {
             "id": 16,
@@ -216,7 +216,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/1.png",
             "price": 788,
             "sizes": "XXS S M L",
-            "subcategories": "Shirt3"
+            "subcategory": "Shirt3"
         },
         {
             "id": 17,
@@ -226,7 +226,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
             "price": 6077,
             "sizes": "XS L",
-            "subcategories": "Shirt4"
+            "subcategory": "Shirt4"
         },
         {
             "id": 21,
@@ -236,7 +236,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
             "price": 688,
             "sizes": "XS S L XXL",
-            "subcategories": "Shirt5"
+            "subcategory": "Shirt5"
         },
         {
             "id": 33,
@@ -246,7 +246,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
             "price": 455,
             "sizes": null,
-            "subcategories": "Shirt1"
+            "subcategory": "Shirt1"
         },
         {
             "id": 34,
@@ -256,7 +256,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/2.png",
             "price": 908,
             "sizes": null,
-            "subcategories": "Shirt2"
+            "subcategory": "Shirt2"
         },
         {
             "id": 45,
@@ -266,7 +266,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
             "price": 788,
             "sizes": "L",
-            "subcategories": "Shirt3"
+            "subcategory": "Shirt3"
         },
         {
             "id": 60,
@@ -276,7 +276,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
             "price": 788,
             "sizes": "XXS XS S M L",
-            "subcategories": "Shirt4"
+            "subcategory": "Shirt4"
         },
         {
             "id": 67,
@@ -286,7 +286,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
             "price": 888,
             "sizes": "XXS XS",
-            "subcategories": "Shirt5"
+            "subcategory": "Shirt5"
         },
         {
             "id": 73,
@@ -296,7 +296,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/1.png",
             "price": 788,
             "sizes": "XS S M L",
-            "subcategories": "Shirt1"
+            "subcategory": "Shirt1"
         },
         {
             "id": 81,
@@ -306,7 +306,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
             "price": 6077,
             "sizes": "XS L",
-            "subcategories": "Shirt2"
+            "subcategory": "Shirt2"
         },
         {
             "id": 85,
@@ -316,7 +316,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
             "price": 688,
             "sizes": "XS S L XXL",
-            "subcategories": "Shirt3"
+            "subcategory": "Shirt3"
         },
         {
             "id": 88,
@@ -326,7 +326,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
             "price": 455,
             "sizes": null,
-            "subcategories": "Shirt4"
+            "subcategory": "Shirt4"
         },
         {
             "id": 94,
@@ -336,7 +336,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
             "price": 908,
             "sizes": null,
-            "subcategories": "Shirt5"
+            "subcategory": "Shirt5"
         },
         {
             "id": 95,
@@ -346,7 +346,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/3.png",
             "price": 788,
             "sizes": "L",
-            "subcategories": "Shirt1"
+            "subcategory": "Shirt1"
         },
         {
             "id": 106,
@@ -356,7 +356,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
             "price": 788,
             "sizes": "XXS XS S L",
-            "subcategories": "Shirt2"
+            "subcategory": "Shirt2"
         },
         {
             "id": 107,
@@ -366,7 +366,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
             "price": 888,
             "sizes": "XXS XS",
-            "subcategories": "Shirt3"
+            "subcategory": "Shirt3"
         },
         {
             "id": 180,
@@ -376,7 +376,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
             "price": 788,
             "sizes": "XXS XS S M L",
-            "subcategories": "Shirt4"
+            "subcategory": "Shirt4"
         },
         {
             "id": 201,
@@ -386,7 +386,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
             "price": 6077,
             "sizes": "XS L",
-            "subcategories": "Shirt5"
+            "subcategory": "Shirt5"
         },
         {
             "id": 210,
@@ -396,7 +396,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
             "price": 688,
             "sizes": "XS S L XXL",
-            "subcategories": "Shirt1"
+            "subcategory": "Shirt1"
         },
         {
             "id": 213,
@@ -406,7 +406,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
             "price": 455,
             "sizes": null,
-            "subcategories": "Shirt2"
+            "subcategory": "Shirt2"
         },
         {
             "id": 240,
@@ -416,7 +416,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/2.png",
             "price": 908,
             "sizes": null,
-            "subcategories": "Shirt3"
+            "subcategory": "Shirt3"
         },
         {
             "id": 255,
@@ -426,7 +426,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
             "price": 788,
             "sizes": "L",
-            "subcategories": "Shirt4"
+            "subcategory": "Shirt4"
         },
         {
             "id": 256,
@@ -436,7 +436,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
             "price": 788,
             "sizes": "XXS XS S M L",
-            "subcategories": "Shirt5"
+            "subcategory": "Shirt5"
         },
         {
             "id": 270,
@@ -446,7 +446,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
             "price": 888,
             "sizes": "XXS XS",
-            "subcategories": "Shirt1"
+            "subcategory": "Shirt1"
         },
         {
             "id": 278,
@@ -456,7 +456,7 @@
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/1.png",
             "price": 788,
             "sizes": "XXS S M L",
-            "subcategories": "Shirt2"
+            "subcategory": "Shirt2"
         }
     ],
     "promotions": [
