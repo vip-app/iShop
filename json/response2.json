@@ -3,7 +3,7 @@
     "products": [
         {
             "id": 1,
-            "category": "Shirt",
+            "category": "Аксессуары",
             "title": "Second shirt1",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/3.png",
@@ -12,7 +12,7 @@
         },
         {
             "id": 5,
-            "category": "Shirt",
+            "category": "Аксессуары",
             "title": "Some other2",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
@@ -21,7 +21,7 @@
         },
         {
             "id": 6,
-            "category": "Shirt",
+            "category": "Аксессуары",
             "title": "Last shirt3",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
@@ -30,7 +30,7 @@
         },
         {
             "id": 8,
-            "category": "Shirt",
+            "category": "Аксессуары",
             "title": "First shirt4",
             "description": null,
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
@@ -39,7 +39,7 @@
         },
         {
             "id": 10,
-            "category": "Shirt",
+            "category": "Аксессуары",
             "title": "Second shirt5",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/3.png",
@@ -48,7 +48,7 @@
         },
         {
             "id": 11,
-            "category": "Shirt",
+            "category": "Аксессуары",
             "title": "Some other6",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
@@ -57,7 +57,7 @@
         },
         {
             "id": 15,
-            "category": "Shirt",
+            "category": "Аксессуары",
             "title": "Last shirt7",
             "description": null,
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
@@ -66,7 +66,7 @@
         },
         {
             "id": 16,
-            "category": "Shirt",
+            "category": "Аксессуары",
             "title": "First shirt8",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/1.png",
@@ -75,7 +75,7 @@
         },
         {
             "id": 17,
-            "category": "Jeans",
+            "category": "Брюки",
             "title": "Second shirt9",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
@@ -84,7 +84,7 @@
         },
         {
             "id": 21,
-            "category": "Jeans",
+            "category": "Брюки",
             "title": "Some other10",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
@@ -93,7 +93,7 @@
         },
         {
             "id": 33,
-            "category": "Jeans",
+            "category": "Брюки",
             "title": "Last shirt11",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
@@ -102,7 +102,7 @@
         },
         {
             "id": 34,
-            "category": "Jeans",
+            "category": "Брюки",
             "title": "First shirt12",
             "description": null,
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/2.png",
@@ -111,7 +111,7 @@
         },
         {
             "id": 45,
-            "category": "Jeans",
+            "category": "Брюки",
             "title": "Second shirt13",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
@@ -120,7 +120,7 @@
         },
         {
             "id": 60,
-            "category": "Jeans",
+            "category": "Брюки",
             "title": "Some other14",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
@@ -129,7 +129,7 @@
         },
         {
             "id": 67,
-            "category": "Jeans",
+            "category": "Брюки",
             "title": "Last shirt15",
             "description": null,
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
@@ -138,7 +138,7 @@
         },
         {
             "id": 73,
-            "category": "Jeans",
+            "category": "Брюки",
             "title": "First shirt16",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/1.png",
@@ -147,7 +147,7 @@
         },
         {
             "id": 81,
-            "category": "Shoes",
+            "category": "Жакеты",
             "title": "Second shirt17",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
@@ -156,7 +156,7 @@
         },
         {
             "id": 85,
-            "category": "Shoes",
+            "category": "Жакеты",
             "title": "Some other18",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
@@ -165,7 +165,7 @@
         },
         {
             "id": 88,
-            "category": "Shoes",
+            "category": "Жакеты",
             "title": "Last shirt19",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
@@ -174,7 +174,7 @@
         },
         {
             "id": 94,
-            "category": "Shoes",
+            "category": "Жакеты",
             "title": "First shirt20",
             "description": null,
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
@@ -183,7 +183,7 @@
         },
         {
             "id": 95,
-            "category": "Shoes",
+            "category": "Жакеты",
             "title": "Second shirt21",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/3.png",
@@ -192,7 +192,7 @@
         },
         {
             "id": 106,
-            "category": "Shoes",
+            "category": "Жакеты",
             "title": "Some other22",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
@@ -201,7 +201,7 @@
         },
         {
             "id": 107,
-            "category": "Shoes",
+            "category": "Жакеты",
             "title": "Last shirt23",
             "description": null,
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
@@ -210,7 +210,7 @@
         },
         {
             "id": 180,
-            "category": "Shoes",
+            "category": "Жакеты",
             "title": "First shirt24",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
@@ -219,7 +219,7 @@
         },
         {
             "id": 201,
-            "category": "Hat",
+            "category": "Майки",
             "title": "Second shirt25",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
@@ -228,7 +228,7 @@
         },
         {
             "id": 210,
-            "category": "Hat",
+            "category": "Майки",
             "title": "Some other26",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
@@ -237,7 +237,7 @@
         },
         {
             "id": 213,
-            "category": "Hat",
+            "category": "Майки",
             "title": "Last shirt27",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular1.jpg",
@@ -246,7 +246,7 @@
         },
         {
             "id": 240,
-            "category": "Hat",
+            "category": "Майки",
             "title": "First shirt28",
             "description": null,
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/2.png",
@@ -255,7 +255,7 @@
         },
         {
             "id": 255,
-            "category": "Hat",
+            "category": "Майки",
             "title": "Second shirt29",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular3.jpg",
@@ -264,7 +264,7 @@
         },
         {
             "id": 256,
-            "category": "Hat",
+            "category": "Майки",
             "title": "Some other30",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular2.jpg",
@@ -273,7 +273,7 @@
         },
         {
             "id": 270,
-            "category": "Hat",
+            "category": "Майки",
             "title": "Last shirt31",
             "description": null,
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/popular4.jpg",
@@ -282,7 +282,7 @@
         },
         {
             "id": 278,
-            "category": "Hat",
+            "category": "Майки",
             "title": "First shirt32",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis nisl dolor. Donec venenatis tellus est, eu tincidunt quam faucibus et.",
             "img_url": "https://raw.githubusercontent.com/vip-app/iShop/main/images/1.png",
